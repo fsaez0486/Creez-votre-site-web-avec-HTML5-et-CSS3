@@ -1,0 +1,33 @@
+body {
+    /* Ici on utilise le sélecteur body pour appliquer une police et une taille par défaut pour les éléments 
+    Ensemble de la page web*/
+    font-family: 'Manrope', sans-serif ;
+    /* police par defaut */
+    font-size: 1em ;
+    /* taille par :defaut */
+}
+
+a {
+    color: black ;
+    /* texte de la page en noir */
+    text-decoration: none ;
+    /* pas de surlignement */
+}
+
+.em { 
+    /* texte en italique */
+    color:  #a5b4fc ;
+    font-style: normal ;
+}
+
+h1 { 
+    /* Titre de ma page "1er niveau" */
+    font-size: 3.5em ;
+    color: #a5b4fc ;
+    font-family: 'Montserrat', sans-serif ;
+}
+
+p {
+    /* Titre de mon 1er paragraphe */
+    font-size: 1.1em ;
+}
